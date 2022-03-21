@@ -18,7 +18,6 @@ The user can enter the **info** tab to see national vaccination statistics (numb
 ## Why MVVM architecture ?
 We chose MVVM because the project contains some complex views such as displaying user vaccination status along with a notification system.
 It's easier to implement if we aim at a prototype/preview of our website that gets extended with time.
-Plus a high portion of the code is reused between web and mobile applications.
 ![alt text](https://github.com/medbensalah/TP-architecture/blob/main/image6.png?raw=true)
 Since we want to catch bugs early in this complex project, we need an easy approach for TDD and the ViewModels in MVVM architecture are suitable for that and let us test them on the go.
 
