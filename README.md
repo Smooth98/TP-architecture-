@@ -11,7 +11,7 @@
   ![alt text](https://github.com/Smooth98/TP-architecture/blob/main/image1.PNG?raw=true)
 ### 2- Notification system
   The user is notified of every action he takes in the website and the notification type can either be a success info or error notification
-![alt text](https://github.com/Smooth98/TP-architecture/blob/main/image2.png?raw=true)
+![alt text](https://github.com/Smooth98/TP-architecture/blob/master/image2.png?raw=true)
 ### 3- Visualize national vaccination statistics
 The user can enter the **info** tab to see national vaccination statistics (number of inscriptions and of vaccinations)
 ![alt text](https://github.com/medbensalah/TP-architecture/blob/main/image3.png?raw=true)
