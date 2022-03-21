@@ -7,7 +7,7 @@
   ![alt text](https://github.com/medbensalah/TP-architecture/blob/main/image4.png?raw=true)
 ### 1- Visualize user vaccinatoin status
   Upon logging in, the user can enter the **state** tab to see his vaccination status
-  ![alt text](https://github.com/Smooth98/TP-architecture/blob/main/image0.PNG?raw=true)
+  ![alt text](https://github.com/Smooth98/TP-architecture-/blob/master/image%200.PNGraw=true)
   ![alt text](https://github.com/Smooth98/TP-architecture/blob/main/image1.PNG?raw=true)
 ### 2- Notification system
   The user is notified of every action he takes in the website and the notification type can either be a success info or error notification
