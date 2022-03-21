@@ -1,14 +1,14 @@
 # TP-architecture
 
-## By Mohammed Ben Salah and Melek Elloumi, GL4 Group 2
+## By Mohammed Karim Mellouli and Ali Achour, GL4 Group 2
 
 ## Use cases implemented
 ### 0- Home page
   ![alt text](https://github.com/medbensalah/TP-architecture/blob/main/image4.png?raw=true)
 ### 1- Visualize user vaccinatoin status
   Upon logging in, the user can enter the **state** tab to see his vaccination status
-  ![alt text](https://github.com/medbensalah/TP-architecture/blob/main/image0.png?raw=true)
-  ![alt text](https://github.com/medbensalah/TP-architecture/blob/main/image1.png?raw=true)
+  ![alt text](https://github.com/medbensalah/TP-architecture/blob/main/image 0.png?raw=true)
+  ![alt text](https://github.com/medbensalah/TP-architecture/blob/main/image 1.png?raw=true)
 ### 2- Notification system
   The user is notified of every action he takes in the website and the notification type can either be a success info or error notification
 ![alt text](https://github.com/medbensalah/TP-architecture/blob/main/image2.png?raw=true)
